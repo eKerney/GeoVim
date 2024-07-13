@@ -1,0 +1,387 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "operation_name": "test flight 1",
+        "PIC": "Maverick Icewoman",
+        "duration": "20",
+        "crew": "Jane D, John D, Siskin D",
+        "aircraft": "DJI Mavic 2",
+        "incident": "NO",
+        "notes": "successful flight",
+        "date": "1-11-2024"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -83.07748959017557,
+            42.32912966381204
+          ],
+          [
+            -83.08102610393627,
+            42.33121567055366
+          ],
+          [
+            -83.08305771822427,
+            42.328656825999786
+          ],
+          [
+            -83.08177855367222,
+            42.32551375491636
+          ],
+          [
+            -83.07210957456162,
+            42.32579190913398
+          ],
+          [
+            -83.07143236979894,
+            42.32890715234308
+          ],
+          [
+            -83.07730147774159,
+            42.32912966381204
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "operation_name": "test flight 2",
+        "PIC": "Maverick Icewoman",
+        "duration": "20",
+        "crew": "Jane D, John D, Siskin D",
+        "aircraft": "DJI Mavic 2",
+        "incident": "NO",
+        "notes": "successful flight",
+        "date": "1-12-2024"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -83.07752721266219,
+            42.32921310541013
+          ],
+          [
+            -83.0803488991736,
+            42.33282880166473
+          ],
+          [
+            -83.08373492298693,
+            42.33221692921694
+          ],
+          [
+            -83.08584178224825,
+            42.32924091925139
+          ],
+          [
+            -83.08595464970895,
+            42.3236779062392
+          ],
+          [
+            -83.07696287536025,
+            42.32278777850581
+          ],
+          [
+            -83.07760245763629,
+            42.32445675767528
+          ],
+          [
+            -83.07752721266219,
+            42.32907403601888
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "operation_name": "test flight 3",
+        "PIC": "Maverick Icewoman",
+        "duration": "20",
+        "crew": "Jane D, John D, Siskin D",
+        "aircraft": "DJI Mavic 2",
+        "incident": "NO",
+        "notes": "successful flight",
+        "date": "1-13-2024"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -83.07741437208168,
+            42.329157480345145
+          ],
+          [
+            -83.07391548080763,
+            42.334525328607725
+          ],
+          [
+            -83.07034134456026,
+            42.33855786659663
+          ],
+          [
+            -83.06823448529897,
+            42.33861348600266
+          ],
+          [
+            -83.07162050911234,
+            42.33458095158042
+          ],
+          [
+            -83.07726388213432,
+            42.329213108064494
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "operation_name": "test flight 4",
+        "PIC": "Maverick Icewoman",
+        "duration": "20",
+        "crew": "Jane D, John D, Siskin D",
+        "aircraft": "DJI Mavic 2",
+        "incident": "NO",
+        "notes": "successful flight",
+        "date": "1-14-2024"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -83.07737676386773,
+            42.32901841311846
+          ],
+          [
+            -83.0703789813204,
+            42.32017296040132
+          ],
+          [
+            -83.06488609824574,
+            42.315666308221694
+          ],
+          [
+            -83.06044664480176,
+            42.31299554722463
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "operation_name": "test flight 5",
+        "PIC": "Maverick Icewoman",
+        "duration": "20",
+        "crew": "Jane D, John D, Siskin D",
+        "aircraft": "DJI Mavic 2",
+        "incident": "NO",
+        "notes": "successful flight",
+        "date": "1-15-2024"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -83.07722285346483,
+            42.32906942013133
+          ],
+          [
+            -83.05924321630162,
+            42.327635863909194
+          ],
+          [
+            -83.05210592172806,
+            42.32522457243758
+          ],
+          [
+            -83.06575017232832,
+            42.32550148945447
+          ],
+          [
+            -83.06926129221623,
+            42.32622570940018
+          ],
+          [
+            -83.07431143179551,
+            42.32769375188769
+          ],
+          [
+            -83.07758831136492,
+            42.329071331021254
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "operation_name": "test flight 6",
+        "PIC": "Maverick Icewoman",
+        "duration": "20",
+        "crew": "Jane D, John D, Siskin D",
+        "aircraft": "DJI Mavic 2",
+        "incident": "NO",
+        "notes": "successful flight",
+        "date": "1-16-2024"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -83.08687193501906,
+            42.338184089644045
+          ],
+          [
+            -83.09266847740204,
+            42.326125538751256
+          ],
+          [
+            -83.10673869362618,
+            42.32679494357839
+          ],
+          [
+            -83.10688471097542,
+            42.32725994313685
+          ],
+          [
+            -83.1092785317941,
+            42.33478436344001
+          ],
+          [
+            -83.09794103048456,
+            42.33691443533658
+          ],
+          [
+            -83.08698404605445,
+            42.3380732952798
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "operation_name": "test flight 7",
+        "PIC": "Maverick Icewoman",
+        "duration": "20",
+        "crew": "Jane D, John D, Siskin D",
+        "aircraft": "DJI Mavic 2",
+        "incident": "NO",
+        "notes": "successful flight",
+        "date": "1-17-2024"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -83.08695758124729,
+            42.33873921580209
+          ],
+          [
+            -83.06929338812182,
+            42.337354684462895
+          ],
+          [
+            -83.06167243609701,
+            42.33724444435137
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "operation_name": "test flight 8",
+        "PIC": "Maverick Icewoman",
+        "duration": "20",
+        "crew": "Jane D, John D, Siskin D",
+        "aircraft": "DJI Mavic 2",
+        "incident": "NO",
+        "notes": "successful flight",
+        "date": "1-18-2024"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -83.0768291110725,
+            42.31395113425472
+          ],
+          [
+            -83.07222498752691,
+            42.31665062558187
+          ],
+          [
+            -83.06856864668308,
+            42.31870066373165
+          ],
+          [
+            -83.05962494368883,
+            42.32283498205973
+          ],
+          [
+            -83.05747829087242,
+            42.32238480063995
+          ],
+          [
+            -83.07192124921299,
+            42.314375239104976
+          ],
+          [
+            -83.07481812207635,
+            42.31365148100775
+          ],
+          [
+            -83.07701900934426,
+            42.31351415996892
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "operation_name": "test flight 9",
+        "PIC": "Maverick Icewoman",
+        "duration": "20",
+        "crew": "Jane D, John D, Siskin D",
+        "aircraft": "DJI Mavic 2",
+        "incident": "NO",
+        "notes": "successful flight",
+        "date": "1-19-2024"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -83.07697967414425,
+            42.31303488297803
+          ],
+          [
+            -83.07340494291482,
+            42.320304850678184
+          ],
+          [
+            -83.07137068183317,
+            42.32427440087693
+          ],
+          [
+            -83.0685904440987,
+            42.33055611801379
+          ],
+          [
+            -83.06395096000216,
+            42.33431931222893
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
