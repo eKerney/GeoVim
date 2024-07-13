@@ -12,13 +12,13 @@ M.show_geodata = function(opts)
   pickers.new(opts, {
     finder = finders.new_async_job({
       command_generator = function()
-        return { 'ls', '|' }
+        return { 'rg', '--files' }
         -- return { "docker", "images", "--format", "json" }
       end,
 
       entry_maker = function(entry)
-        -- log.debug(entry)
-        log.debug(pickers.find_files())
+        log.debug(entry)
+        -- log.debug(pickers.find_files())
         return {
           value = entry,
           display = entry.name,
